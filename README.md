@@ -2,7 +2,8 @@
 End-to-end Data Engineering pipeline using Databricks &amp; PySpark. Implements Medallion Architecture (Bronze-Silver-Gold) with automated hourly scheduling via Databricks Jobs to monitor real-time Pune Weather &amp; AQI data.
 
 
- Pune Weather and AQI Data Pipeline
+Pune Weather and AQI Data Pipeline
+
 In this project, I built an automated data pipeline to monitor real-time weather and air quality for Pune city. I used the Medallion Architecture (Bronze, Silver, Gold) in Databricks to make sure the data is clean, reliable, and ready for analytics.
 
 Architecture Details:
